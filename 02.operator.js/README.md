@@ -107,14 +107,3 @@ console.log(!hasID); // false
 
 ---
 
-⭐ If you found this helpful, consider giving the repo a star!
-
-```
-
----
-
-If you want, I can also create:
-- A more **professional README style**
-- A **beginner-friendly tutorial style**
-- Or add **badges + table of contents** 🚀
-```
